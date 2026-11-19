@@ -1,4 +1,4 @@
-# Hi, I'm Brijesh
+# Hi, I'm Brijeshkumar Yadav
 
 Full Stack & AI Engineer. I build web apps, backends and AI features, and ship them to real users.
 
